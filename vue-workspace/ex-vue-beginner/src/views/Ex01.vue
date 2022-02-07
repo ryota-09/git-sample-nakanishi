@@ -7,7 +7,7 @@
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
 @Component
-export default class XXXComponent extends Vue {
+export default class XXXXXXComponent extends Vue {
 
 }
 </script>
